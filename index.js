@@ -30,7 +30,7 @@ module.exports = function (options) {
         }
 
         var chunk = String(file.contents);
-        chunk = tplinc.process(file.realpath, chunk);
+        chunk = tplinc.process(file.path, chunk);
         file.contents = new Buffer(chunk);
 
         cb(null, file);
