@@ -23,6 +23,6 @@
   "dependencies": {
     "gulp-util": "^3.0.7",
     "through2": "^2.0.0",
-    "tplinc": "^1.0.0"
+    "tplinc": "^1.0.1"
   }
 }
