@@ -1,6 +1,6 @@
-# gulp-url-combo
-可以通过为script和link增加data-combo属性把页面中多个js、css请求combo为一个或者多个（根据data-combo的属性值）。
+# gulp-tplinc
+替换字符串模板
 
 ## 配置说明
-* `basePath` 默认 `/c/=`
-* `separator` 默认 `,`
+* `trim` 默认 `/[\r\n\t]/g`
+* `wrapper` 默认 `'`
