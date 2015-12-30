@@ -1,6 +1,6 @@
 {
   "name": "gulp-tplinc",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "template include for gulp",
   "main": "index.js",
   "scripts": {

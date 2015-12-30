@@ -11,7 +11,7 @@ var Tplinc = require('tplinc');
 
 var PluginError = gutil.PluginError;
 
-const PLUGIN_NAME = 'gulp-tplinc';
+var PLUGIN_NAME = 'gulp-tplinc';
 
 module.exports = function (options) {
     options = options || {};
