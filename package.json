@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/obingo/gulp-tplinc.git"
+    "url": "git+https://github.com/xsbchen/gulp-tplinc.git"
   },
   "keywords": [
     "gulp",
@@ -17,9 +17,9 @@
   "author": "xsbchen",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/obingo/gulp-tplinc/issues"
+    "url": "https://github.com/xsbchen/gulp-tplinc/issues"
   },
-  "homepage": "https://github.com/obingo/gulp-tplinc",
+  "homepage": "https://github.com/xsbchen/gulp-tplinc",
   "dependencies": {
     "gulp-util": "^3.0.7",
     "through2": "^2.0.0",
